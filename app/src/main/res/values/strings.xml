@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MyPBZ2</string>
+    <string name="edit">Edit</string>
+    <string name="search">Search</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="car">Car</string>
+    <string name="choose_car">Choose car</string>
+    <string name="police">Police</string>
+    <string name="choose_police">Choose officer</string>
+    <string name="inspection">Inspection</string>
+    <string name="find_cars">Number of cars that have passed the inspection</string>
+    <string name="ment_search">View the list of traffic police officers</string>
+    <string name="car_history">View the history of passing inspections by a given vehicle</string>
+    <string name="choose_table">Choose Table</string>
+
+    <string name="car_number">Госномер Машины</string>
+    <string name="car_engine">Номер двигателя</string>
+    <string name="car_color">Цвет</string>
+    <string name="car_mark">Марка</string>
+    <string name="car_passport">Номер техпаспорта</string>
+    <string name="car_driver_license">Номер водит. удостовер.</string>
+    <string name="driver_fio">ФИО</string>
+    <string name="driver_address">Адрес водителя</string>
+    <string name="driver_year">Год рождения</string>
+    <string name="driver_sex">Пол</string>
+
+    <string name="tl_date">Дата прохождения</string>
+    <string name="tl_result">Результат</string>
+    <string name="tl_conclusion">Заключение</string>
+
+    <string name="police_fio">ФИО сотрудника</string>
+    <string name="police_position">Должность сотрудника</string>
+    <string name="police_rank">Звание сотрудника</string>
+
+    <string name="start_date">Стартовая дата</string>
+    <string name="end_date">Конечная дата</string>
+</resources>
